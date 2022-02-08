@@ -6,6 +6,15 @@
     margin: 0%;
     padding: 0%;
 }
+
+section .h1
+{
+    position: relative;
+    user-select: none;
+    cursor: default;
+}
+
+
 section
 {
     position: relative;
